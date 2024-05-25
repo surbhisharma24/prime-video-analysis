@@ -1,2 +1,2 @@
 # prime-video-analysis
-analysis of data related to movies and tv shows
+analysis of data present on prime video related to movies and tv shows
